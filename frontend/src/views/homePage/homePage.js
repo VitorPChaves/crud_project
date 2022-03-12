@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import './App.css';
+import './styles.css';
 import logo from "../src/assets/logo2.png"
 
 function App() {
